@@ -1,4 +1,4 @@
 category: X11
-requires: mkfontdir mkfontscale fontconfig xorg-encodings xorg-font-alias
-sdesc: "Xorg Arabic fonts"
-ldesc: "Xorg Arabic fonts"
+requires: mkfontdir mkfontscale fontconfig font-encodings font-alias
+sdesc: "X.Org Arabic fonts"
+ldesc: "X.Org Arabic fonts"
